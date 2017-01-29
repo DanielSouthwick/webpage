@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en-us">
+    <head>
+        <title>Webpage Planning Project</title>
+        <meta name="viewpoint" content="width=device-width">
+        
+    </head>
+    <body>
+        <header>
+            <h1>DanielSouthwick.io</h1>
+            <h2>Purpose Statement</h2>
+            <p>Our desire is to inform the public of local weather and <br>
+                how it may affect their daily tasks, while also providing <br>
+                the flexibility to help you travel without being surprised <br>
+                by the weather there. We also aim to keep local residents <br>
+                aware of any weather emergencies that may arise.</p>
+            <h2>Target Audience</h2>
+            <p>Our audience will vary widely, and include people of all <br>
+                walks of life, but we will focus on those age 18-80, and <br>
+                those who spend valuable time outside or on the road. We <br>
+                hope to keep such people informed enough to make safe <br>
+                and convenient decisions regarding the weather where <br>
+                they reside. To do this we make our services available <br>
+                on tablets and mobile devices.</p>
+            <h3>Example Persona</h3>
+            <img src="Persona.png" alt="Hiker">
+            <h3>James Pickford - 27</h3>
+                <ul>
+                    <li>Forestry Analyst</li>
+                    <li>Snowboarder</li>
+                    <li>Hiker</li>
+                    <br>
+                    <li>Studies plant life in Oregon</li>
+                    <li>Married  with 1 child</li>
+                    <li>Desires to know weather conditions that may affect his work</li>
+                    <li>Doesn't want to lose family time</li>
+                    <li>Relies on his phone for a large part of his research</li>
+                </ul>
+        </header>
+        <h2>Wire Frames/Designs</h2>
+            <p>These designs focus on the current temperature as the most important<br>         
+            figure and can be seen immediately without searching. The other <br>
+                features would only be utilized if necessary.</p>
+        <h3>Mobile Screen</h3>
+       <img src="Small Screen.png" alt="Mobile Screen" style="width:155px;height:270px;">
+        <br>
+        <h3>Tablet Screen</h3>
+        <img src="Medium Screen.png" alt="Tablet Screen" style="width:480px;height:270px;">
+        <h3>Desktop/Laptop Screen</h3>
+        <img src="Large Screen.png" alt="Tablet Screen" style="width:960px;height:540px;">
+    </body>
+</html>
