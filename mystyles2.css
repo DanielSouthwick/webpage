@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+.boxed {}
+
+body {
+    font-size: 210%;
+    background-image: url(Background%20for%20Star%20Weather.PNG);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    background-color: steelblue;
+    width: 100%;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: auto;
+}
+
+nav {
+    width: 100%;
+    text-align: center;
+    background-color: lightsteelblue;
+    margin-left: auto;
+}
+
+#tempblk1 {
+    width: 60%;
+    margin: auto;
+    height: 1.6em;
+    text-align: center;
+    background-color: steelblue;
+}
+
+#tempblk1 ul {
+    height: auto;
+    padding: 8px 0px;
+    margin: 0px;
+}
+
+#tempblk1 li {
+    display: inline;
+    padding: 30px;
+    margin: 0px;
+}
+
+#tempblk2 {
+    background-color: lightsteelblue;
+    width: 60%;
+    text-align: center;
+    margin: auto;
+    height: 1.6em;
+    font-size: 140%;
+}
+
+#tempblk3 {
+    background-color: steelblue;
+    color: azure;
+    font-size: 700%;
+    width: 60%;
+    text-align: center;
+    margin-bottom: .2em;
+    margin-top: .2em;
+    margin: auto;
+    align-items: center;
+}
+
+#windblk {
+    background-color: steelblue;
+    text-align: center;
+}
+
+h3 {
+    background-color: steelblue;
+    font-family: 'Raleway' sans-serif;
+    text-align: center;
+    margin-bottom: 5px;
+}
+
+ul li {
+    width: 100%;
+    margin-right: auto;
+}
+
+#hfdata ul {
+    height: auto;
+    padding: 8px 0px;
+    margin: 0px;
+}
+
+#hfdata li {
+    display: inline;
+    padding: 30px;
+    margin: 0px;
+}
+#hfdata {
+    display: inline-block;
+    background-color: lightslategray
+}
+#wfdata {
+    display:inline-block;
+    background-color: lightslategray
+}
